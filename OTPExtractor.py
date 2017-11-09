@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+#
+# OTPExtractor
+# Copyright (c) Sebastian Johansson, 2017
+# Licensed under the EUPL
+#
 import sqlite3
 import argparse
 import qrcode

@@ -12,3 +12,8 @@ generate SVGs containing QR codes in the current working directory.
 
 Some version of Python 3, any will probably do, and [qrcode](https://pypi.python.org/pypi/qrcode) from PyPI.
 I tested it with Python 3.6 and qrcode 5.3, so that will work at least.
+
+## License
+
+This code is released under the EUPL 1.2, you'll find the English version in LICENSE.txt, and [it's available in all
+European languages on the official site, here](https://joinup.ec.europa.eu/page/eupl-text-11-12).
